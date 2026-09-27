@@ -266,7 +266,12 @@ INNER JOIN Payment p
 ## 📁 Project Files
 
 * Online-Learning-Platform-SQL
-
+### Project.sql
+Contains the SQL queries, joins, subqueries, and view creation statements used in the project.
+* <a href="https://github.com/Akshita-Munpelli/Online-Learning-Platform-SQL/blob/main/online%20learnig%20platform%20project.sql">Sql File</a>
+### SQL project.pptx
+Contains the project presentation, database structure, table descriptions, SQL queries, and outputs.
+<>
 ## Key Insights
 
 * Analyzed **student enrollments and course participation**.
