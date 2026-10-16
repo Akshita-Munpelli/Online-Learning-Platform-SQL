@@ -1,4 +1,4 @@
-# Online Learning Platform Analytics Using SQL
+ # Online Learning Platform Analytics Using SQL
 
 ## Project Overview
 **Online Learning Platform Analytics using SQL** is a database project designed to manage and analyze data related to students, instructors, courses, enrollments, and payments.
